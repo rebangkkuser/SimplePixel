@@ -32,7 +32,7 @@ The main goal is to transform your phone into a "Mini Pixel" experience — simp
 
 ## ⚙️ Requirements
 - Magisk (latest recommended version)
-- Android 8.0 or higher
+- Android 10.0 or higher
 
 ---
 
@@ -65,3 +65,4 @@ Always make a full backup before installing.
 
 ## 🤝 Credits
 Created as an experimental Magisk module focused on bringing a minimal Pixel experience to Android devices.
+Made by bangkkuser
